@@ -1,4 +1,5 @@
 #Effective duplicate detection in online shopping data using Local Sensitivity Hashing
+
 In this project we have developed a method to find duplicate products across different stores. 
 We use a data set containing data on TVs offered by four different online shops. 
 
